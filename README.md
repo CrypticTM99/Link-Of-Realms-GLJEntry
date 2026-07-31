@@ -1,68 +1,89 @@
-﻿Web build -> [Play the web build test](https://cryptictm99.github.io/Link-Of-Realms-GLJEntry/)
+﻿# Link of Realms - Web Build 0.1.4 and development version 0.3.6
 
-*Notice
-In order to play games made with this engine ,You must have .net Framework 4.6.2 or later installed on your PC.
+Web build -> [Play the web build test](https://cryptictm99.github.io/Link-Of-Realms-GLJEntry/)
+
+This is the latest test build of the Link of Realms web version.
+
+The GitHub and Game Jolt web builds have been updated with the latest development progress, including improvements to the player controller, block building systems, block selection, pause menu, and the early foundations for inventory and settings.
+
+The itch.io version is currently still on the build submitted for the game jam on July 30th, 2026. Since that version was submitted as the official jam entry, it will remain unchanged until after the jam period. A post-jam update will be released for the itch.io version after August 18th, 2026, bringing it up to the latest development version.
+
+Development updates and progress logs can be found here:
+
+Itch.io:
+https://cryptictm.itch.io/link-of-realms
+
+Game Jolt:
+https://gamejolt.com/games/Linkofrealms/1086096
 
 How to Play the game:
 
-Arrow keys / WASD keys
+WASD / Arrow Keys
 
 Movement
-[Shift] key + Movement
-Run (If it’s the main character’s view mode, the camera doesn’t rotate to the direction you are running.)
 
-[ESC] key / [X] key
-Display Menu Window / Cancel
+Mouse
 
-[Enter] key / [Z] key
-Confirm
+Camera Look
 
-[E] [Q] [R] [F] key
-Camera Rotation
+Mouse Wheel
 
-[C] [V] key
-Camera Zoom
+Switch Block Type
 
-[B] key
-Camera Switcher (Regular View Mode / Main Character’s View Mode)
+Left Mouse Button
 
-[K] key
-Reset the Camera Position
+Break Block
 
-[F4] key
-Switch Window Size
+Right Mouse Button
 
+Place Block
 
+[ESC] key
+
+Display Pause Menu / Cancel
+
+---
 
 -----------------------------------------------------------------------------
-Game Pad Controller (Also work on a Xbox 360 Controller)
+Game Pad Controller (Also works with an Xbox 360 Controller) (For downloadable)
 -----------------------------------------------------------------------------
+
 [Left Stick] / Arrow Keys
+
 Movement
 
 [X Button] + Movement
+
 Run (If it’s the main character’s view mode, the camera doesn’t rotate to the direction you are running.)
 
 [A Button]
+
 Confirm
 
 [B Button]
+
 Display Menu Window / Cancel
 
 [Right Stick]
+
 Camera Rotation
 
 [LB Button] / [RB Button]
+
 Camera Zoom
 
 [Y Button]
+
 Camera Switcher (Regular View Mode / Main Character’s View Mode)
 
 [Right Stick] Push
+
 Reset the Camera Position
+---
+
+Controller support is currently being improved and may change during development.
+*Note that controller has some bugs with the web build
 
 Created with Bakin RPG and Godot 4.7
-
-(C) 2016-2020 SmileBoom Co.Ltd. All Rights Reserved.
 
 (C) 2025-2026 CrypticTM. All Rights Reserved.
